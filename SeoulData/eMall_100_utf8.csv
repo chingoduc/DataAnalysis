@@ -1,0 +1,100 @@
+﻿일련번호,분류명,쇼핑몰명,도메인명,소비자보호평가,이용자만족평가,피해발생평가,전체평가
+1,종합쇼핑몰,현대Hmall,www.hyundaihmall.com,47,30,10,87
+2,종합쇼핑몰,우체국쇼핑,mall.epost.go.kr,47,29,10,86
+3,종합쇼핑몰,디앤샵,www.dnshop.com,48,27,10,85
+4,종합쇼핑몰,롯데닷컴,www.lotte.com,49,27,9,85
+5,종합쇼핑몰,텐바이텐,www.10x10.co.kr,46,28,10,84
+6,종합쇼핑몰,GS SHOP,www.gsshop.com,48,27,9,84
+7,종합쇼핑몰,NS Mall,www.nsmall.com,47,27,10,84
+8,종합쇼핑몰,엘롯데,www.ellotte.com,47,27,10,84
+9,종합쇼핑몰,여인닷컴,www.yeoin.com,46,28,10,84
+10,종합쇼핑몰,CJmall,www.cjmall.com,49,28,7,84
+11,종합쇼핑몰,이데이몰,www.edaymall.com,47,26,10,83
+12,종합쇼핑몰,핫트랙스,www.hottracks.co.kr,47,26,10,83
+13,종합쇼핑몰,2001아울렛 쇼핑몰,www.2001outlet.com,46,27,10,83
+14,종합쇼핑몰,주연홈쇼핑,www.jooyonshop.com,46,27,10,83
+15,종합쇼핑몰,라츠mall,www.lotsshop.com,47,26,10,83
+16,종합쇼핑몰,홈플러스 쇼핑몰,www.homeplus.co.kr,46,27,10,83
+17,종합쇼핑몰,프라이스클럽,www.priceclub.co.kr,46,27,10,83
+18,종합쇼핑몰,롯데i몰,www.lotteimall.com,47,27,8,82
+19,종합쇼핑몰,롯데마트몰,www.lottemart.com,46,26,10,82
+20,종합쇼핑몰,신세계몰,mall.shinsegae.com,47,26,8,81
+21,종합쇼핑몰,홈앤쇼핑,www.hnsmall.com,43,27,10,80
+22,종합쇼핑몰,AK몰,www.akmall.com,43,27,10,80
+23,종합쇼핑몰,NH마켓,www.nhmarket.kr,42,27,10,79
+24,종합쇼핑몰,이마트몰,www.emart.com,42,27,10,79
+25,종합쇼핑몰,마켓인서울,www.marketinseoul.com,33,28,10,71
+26,종합쇼핑몰,여유쇼핑,shop.eyeoyou.com,34,27,10,71
+27,종합쇼핑몰,지인샵,www.jiinshop.com,35,25,10,70
+28,오픈마켓,인터파크,www.interpark.com,48,28,9,85
+29,오픈마켓,옥션,www.auction.co.kr,48,24,10,82
+30,오픈마켓,G마켓,www.gmarket.co.kr,48,24,8,80
+31,오픈마켓,네이버 샵N,shopping.naver.com,44,26,10,80
+32,오픈마켓,11번가,www.11st.co.kr,46,26,8,80
+33,해외구매대행,엔조이뉴욕,www.njoyny.com,48,27,7,82
+34,해외구매대행,마이아마존,www.myamazon.co.kr,45,26,10,81
+35,해외구매대행,위즈위드,www.wizwid.com,47,25,7,79
+36,해외구매대행,품바이,www.poombuy.com,42,24,10,76
+37,해외구매대행,아이하우스(iehouse),www.iehouse.co.kr,0,25,10,35
+38,컴퓨터,컴퓨존,www.compuzone.co.kr,47,30,10,87
+39,컴퓨터,아싸컴,www.assacom.com,47,27,10,84
+40,컴퓨터,피시포올,www.pc4all.co.kr,47,26,10,83
+41,컴퓨터,조이젠,www.joyzen.co.kr,45,26,10,81
+42,컴퓨터,아이코다,www.icoda.co.kr,46,25,10,81
+43,의류,보리보리,www.boribori.co.kr,46,29,10,85
+44,의류,하프클럽,www.halfclub.com,47,27,10,84
+45,의류,레미떼,www.lemite.com,47,27,10,84
+46,의류,바가지머리,www.bagazimuri.com,48,26,10,84
+47,의류,아이스타일24,www.istyle24.com,47,27,10,84
+48,의류,도드리,www.dodry.net,45,27,10,82
+49,의류,멋남,www.mutnam.com,46,26,10,82
+50,의류,소녀감성,www.snfeel.co.kr,45,27,10,82
+51,의류,금상첨화,www.gumzzi.co.kr,46,26,10,82
+52,의류,다홍,www.dahong.co.kr,46,25,10,81
+53,의류,미아마스빈,www.miamasvin.co.kr,45,26,10,81
+54,의류,쏭바이쏭,www.ssongbyssong.com,45,26,10,81
+55,의류,오가게,www.ogage.co.kr,47,25,9,81
+56,의류,패션플러스,www.fashionplus.co.kr,49,24,7,80
+57,의류,립합,www.liphop.co.kr,45,25,10,80
+58,의류,쥬엔,www.jooen.com,45,25,10,80
+59,의류,콩스타일,www.kongstyle.co.kr,45,25,10,80
+60,의류,스타일난다,www.stylenanda.com,45,24,10,79
+61,의류,다크빅토리,www.darkvictory.co.kr,42,26,10,78
+62,의류,업타운홀릭,www.uptownholic.com,42,26,10,78
+63,의류,11am,www.11am.co.kr,42,27,8,77
+64,의류,난닝구,www.naning9.com,43,24,10,77
+65,의류,스타일티바,www.styletiba.com,42,25,10,77
+66,의류,아우라제이,www.aura-j.kr,41,25,10,76
+67,의류,톰앤래빗,www.tomnrabbit.co.kr,39,25,10,74
+68,가전,하이마트,www.e-himart.co.kr,47,28,10,85
+69,가전,전자 랜드,www.etland.co.kr,46,28,10,84
+70,가전,Sony Style 코리아,www.sonystyle.co.kr,45,27,10,82
+71,가전,와싸다닷컴,www.wassada.com,38,26,10,74
+72,가전,쿠퍼스부쉬,www.kubu.co.kr,34,27,10,71
+73,화장품,리오엘리,www.lioele.com,47,29,10,86
+74,화장품,리스킨,www.reskin.co.kr,48,28,10,86
+75,화장품,아모레퍼시픽 쇼핑몰,www.amorepacificmall.com,47,28,10,85
+76,화장품,sonatural,www.sonatural.co.kr,47,28,10,85
+77,화장품,미샤,shop.beautynet.co.kr,44,29,10,83
+78,도서,교보문고,www.kyobobook.co.kr,47,30,10,87
+79,도서,예스24,www.yes24.com,45,30,10,85
+80,도서,반디앤루니스,www.bandinlunis.com,47,27,10,84
+81,도서,알라딘,www.aladin.co.kr,47,26,10,83
+83,식품,CJONmart,www.cjonmart.net,48,29,10,87
+84,식품,동원몰,www.dongwonmall.com,47,28,10,85
+85,식품,푸드마트,www.foodmart.co.kr,45,27,10,82
+86,식품,이지베이킹,www.ezbaking.com,46,26,10,82
+87,식품,종가푸드샵/대상,www.chonggafood.com,42,29,10,81
+88,소셜커머스,쿠팡,www.coupang.com,48,25,10,83
+89,소셜커머스,위메이크프라이스,www.wemakeprice.com,47,26,10,83
+90,소셜커머스,그루폰 코리아,www.groupon.kr,48,27,8,83
+91,소셜커머스,티몬,www.ticketmonster.co.kr,47,25,10,82
+92,소셜커머스,쿠즐,coozle.co.kr,47,25,10,82
+93,여행,하나투어,www.hanatour.com,47,28,10,85
+94,여행,모두투어,www.modetour.com,49,26,10,85
+95,여행,노랑풍선,www.ybtour.co.kr,47,27,10,84
+96,여행,온라인투어,www.onlinetour.co.kr,47,26,10,83
+97,여행,웹투어,www.webtour.com,46,27,10,83
+98,티켓,티켓링크,www.ticketlink.co.kr,45,29,10,84
+99,티켓,맥스무비,www.maxmovie.com,44,27,10,81
+100,티켓,무비365,www.movie365.co.kr,20,27,10,57
